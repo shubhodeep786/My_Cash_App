@@ -28,4 +28,3 @@ Upon completing the project, follow these steps to submit:
 
 Good luck with your project!
 
-> Note: Markdown is a lightweight markup language commonly used to create well-formatted text documents, such as README files for GitHub repositories and online content like blog posts. Its simple syntax makes it easily readable and comprehensible.
